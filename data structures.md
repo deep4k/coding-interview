@@ -1,6 +1,6 @@
 ## Data Structures and Algorithms
 
-This made using a gist 'The Technical Interview Cheat Sheet' created by [TSiege] (https://github.com/TSiege). Feel free to fork it and add your own changes.
+This made using a gist 'The Technical Interview Cheat Sheet' created by [TSiege](https://github.com/TSiege). Feel free to fork it and add your own changes.
 
 ## Data Structure Basics
 
